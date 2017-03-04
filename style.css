@@ -1,0 +1,27 @@
+ul {
+	font-family: sans-serif; 
+	padding: 0 100px 0 100px; 
+	display: flex; 
+	list-style-type: none;}
+
+li {color: white;
+	padding: 20px;
+	flex-grow: 1}
+
+li:hover { 
+	color: black;
+	background-color: white; }
+.grow {}
+
+.red {background-color:red;}
+
+.blue {background-color: blue;}
+
+.green {background-color: green;}
+
+.yellow {background-color: yellow;}
+
+.purple {background-color: purple;}
+
+h2 {color: white; 
+	flex-grow: 1;}
